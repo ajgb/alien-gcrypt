@@ -3,6 +3,7 @@
 use strict;
 use warnings;
 package Alien::GCrypt;
+use Alien::GPG::Error;
 
 use parent 'Alien::Base';
 
