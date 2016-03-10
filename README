@@ -2,7 +2,7 @@ NAME
     Alien::GCrypt - Install and make available libgcrypt
 
 VERSION
-    version 1.6.2.1
+    version 1.6.5.0
 
 SYNOPSIS
         use Alien::GCrypt;
@@ -20,7 +20,7 @@ AUTHOR
     Alex J. G. Burzyński <ajgb@cpan.org>
 
 COPYRIGHT AND LICENSE
-    This software is copyright (c) 2014 by Alex J. G. Burzyński
+    This software is copyright (c) 2016 by Alex J. G. Burzyński
     <ajgb@cpan.org>.
 
     This is free software; you can redistribute it and/or modify it under

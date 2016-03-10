@@ -20,7 +20,7 @@ __END__
     
 =head1 DESCRIPTION
 
-Alien::GCrypt installs the C library C<libgcrypt>.
+Alien::GCrypt installs the C library C<libgcrypt> v1.6.5.
 
 =head1 SEE ALSO
 

@@ -1,6 +1,7 @@
 Revision history for Perl extension Alien::GCrypt.
 
 {{$NEXT}}
+    Upgrade to v1.6.5
 
 1.6.2.1 2014-11-21 22:24:39
     Add missing required module Alien::GPG::Error.
