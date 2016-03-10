@@ -11,7 +11,7 @@ SYNOPSIS
         my $libs = Alien::GCrypt->libs;
 
 DESCRIPTION
-    Alien::GCrypt installs the C library "libgcrypt".
+    Alien::GCrypt installs the C library "libgcrypt" v1.6.5.
 
 SEE ALSO
     *   <https://www.gnu.org/software/libgcrypt/>
